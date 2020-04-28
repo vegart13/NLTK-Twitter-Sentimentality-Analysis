@@ -3,7 +3,7 @@ Using NLTK (Natural Language Toolkit) this program evaluates the sentimentality 
 
 You will need to install both GetOldTweets3 as well as NLTK. Both are available through pip.
 
-After NLTK is installed you will have to open up the settings.py file and run it. Then select the top option (all) to install everything. This will take a while but once you've done this it should be able to run and you can opt to delete settings.py.
+After NLTK is installed you will have to open up the NLTKinstall.py file and run it. Then select the top option (all) to install everything. This will take a while but once you've done this it should be able to run and you can opt to delete NLTKinstall.py.
 
 This program does the following:
 1. Fetch tweets using GetOldTweets3 using the parameters of:
